@@ -13,27 +13,6 @@ Play with Skin Cancer Images here: (https://skin-cancer-detection-cnn.herokuapp.
 https://www.kaggle.com/kmader/skin-cancer-mnist-ham10000
 
 
-## How to Run the App:
-
-## Method1
-•Run the app.py file
-
-•Go to http://localhost:5000/ on your browser
-
-•Use the Upload and button to browse and upload the image you want
-
-•Hit submit to get the results.
-
-## Method 2
-•Depploy it to Azure Webapp or Heroku App through github repository
-
-•Go to url generated after deployment on your browser
-
-•Use the Upload and button to browse and upload the image you want
-
-•Hit submit to get the results.
-
-
 
 ## Libraries Used: 
 
@@ -118,10 +97,7 @@ batch_normalization_5 (Batch (None, 32)                128
 _________________________________________________________________
 dense_4 (Dense)              (None, 7)                 231       
 =================================================================
-Total params: 504,103
-Trainable params: 502,983
-Non-trainable params: 1,120
-_________________________________________________________________
+
 ```
 
 
